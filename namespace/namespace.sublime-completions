@@ -2,7 +2,7 @@
 	"scope": "source.c, source.cpp, source.c++",
 	"completions":
 	[
-		{"trigger": "using\tnamespace", "contents": "using namespace std;\n${1:name}"},
+		{"trigger": "using\tnamespace", "contents": "using namespace std;\n$1"},
 		
 	]
 }	
