@@ -30,6 +30,9 @@ All contributions are welcome. Just fork it on [Github](https://github.com/tusho
 
 ## License
 
+© 2016 Abdelghafour Mourchid | abdelghafourmourchid@gmail.com.
+
+Forked From Taiwo Kareem:
 © 2015 Taiwo Kareem | taiwo.kareem36@gmail.com.
 
 **Read license.txt**
