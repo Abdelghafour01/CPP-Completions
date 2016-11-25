@@ -32,7 +32,8 @@ Note: For best result, you can disable (Qt Completions for C++) (if installed) s
 
   License
   ========
-
+    © 2016 abdelghafourmourchid | abdelghafourmourchid@gmail.com.	
+   Forked from the C++ Completion Repo of Taiwo Kareem
     © 2015 Taiwo Kareem | taiwo.kareem36@gmail.com.
 
     Read license.txt
